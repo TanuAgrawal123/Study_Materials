@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 60px);
+  gap: 5px;
+  margin: 20px auto;
+}
+
+.square {
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  border: 1px solid #333;
+  background-color: #f9f9f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.square:hover {
+  background-color: #ddd;
+}
+.status {
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: bold;
+}
