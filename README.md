@@ -93,3 +93,8 @@
 - **Adding Event Listener in Array using Prototype**  [Link](https://codesandbox.io/p/sandbox/adding-event-listener-in-array-sl2p67)
 - **Implementing Event Dispatcher**  [Link](https://codesandbox.io/p/sandbox/implement-eventdispatcher-class-mqgxkw)
 - **Tab Problem**  [Link](https://codesandbox.io/p/sandbox/tab-problem-1-yh9dg6)
+
+### 2.3 Maching coding Round Problems on React JS
+- **Snake Eating Problem** [Link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/SnakeEat)
+- **Snake Ladder Problem** [Link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/SnakeAndLadder)
+- **Tic Tac Toe** [link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/TicTacToe)
