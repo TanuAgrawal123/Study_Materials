@@ -55,4 +55,34 @@
 
 ### 1.4 Linked Lists
 - **Singly Linked List**
-- **Doubl
+
+## 2.FRONTEND
+
+
+### 2.1 Javascript [Link to Work](https://www.notion.so/Jacavascript-f3b73f7d5f1943c8bac148e441fa6091#1dbc98782ace465093a9f6d423935d5e)
+- **Execution Context**
+- **Shortest JS Program**
+- **Defined vs not Defined**
+- **==, ===, Object.is()**
+- **Scope Chain Lexical Environment**
+- **Temporal Dead Zone**
+- **Block Scope and Shadowing**
+- **Closures**
+- **Functions**
+- **Call Apply Bind**
+- **Pollyfills**
+- **Asynchronous JS, EVent Loop**
+- **HOF**
+- **JS Engine**
+- **Event Listner**
+- **Error Handling**
+- **CallBack and CallBack Hell**
+- **Promises**
+- **Async Differ**
+- **Async Await**
+- **Map Filter Reduce**
+- **Cookies And Storage**
+- **Prototype Inheritance**
+- **Debouncing**
+- **Throttling**
+- **Iterators and Generators**
