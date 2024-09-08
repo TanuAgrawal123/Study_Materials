@@ -86,3 +86,10 @@
 - **Debouncing**
 - **Throttling**
 - **Iterators and Generators**
+
+### 2.2 Javascript Coding Practice
+- **Map Filter Reduce Implementation** [Link](https://codesandbox.io/p/sandbox/array-map-qddysz)
+- **Prmoises Implmentation**  [Link](https://codesandbox.io/p/sandbox/promise-impl-wwwpwp)
+- **Adding Event Listener in Array using Prototype**  [Link](https://codesandbox.io/p/sandbox/adding-event-listener-in-array-sl2p67)
+- **Implementing Event Dispatcher**  [Link](https://codesandbox.io/p/sandbox/implement-eventdispatcher-class-mqgxkw)
+- **Tab Problem**  [Link](https://codesandbox.io/p/sandbox/tab-problem-1-yh9dg6)
