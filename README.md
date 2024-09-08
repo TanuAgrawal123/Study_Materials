@@ -59,7 +59,7 @@
 ## 2.FRONTEND
 
 
-### 2.1 Javascript [Link to Work](https://www.notion.so/Jacavascript-f3b73f7d5f1943c8bac148e441fa6091#1dbc98782ace465093a9f6d423935d5e)
+### 2.1 Javascript [Link to Work](https://dorian-helicopter-7f2.notion.site/Javascript-f3b73f7d5f1943c8bac148e441fa6091)
 - **Execution Context**
 - **Shortest JS Program**
 - **Defined vs not Defined**
