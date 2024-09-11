@@ -98,3 +98,12 @@
 - **Snake Eating Problem** [Link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/SnakeEat)
 - **Snake Ladder Problem** [Link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/SnakeAndLadder)
 - **Tic Tac Toe** [link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/TicTacToe)
+
+## 3 JAVA
+### 3.1 MultiThreading in Java [Link](https://dorian-helicopter-7f2.notion.site/Multithreading-in-Java-999b6f6957c249d6be3000fbacfe7207?pvs=74)
+- **JVM JDK JRE**
+- **Thread and Process**
+- **MultiThreading and Synchronization**
+- **Producer and Consumer Problem**
+- **Deadlock**
+
