@@ -31,20 +31,31 @@
 - **Build BST from Preorder**
 - 
 
-### 1.2 Graphs
-- **Graph Representations**
-  - Adjacency Matrix
-  - Adjacency List
+### 1.2 Graphs [https://www.notion.so/Graph-4f204e55d28244cd934367baf72c024a#937dc1195f6544b5ad15a5bb0d09bc7b]
 - **Graph Traversal**
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
 - **Shortest Path Algorithms**
   - Dijkstra's Algorithm
   - Bellman-Ford Algorithm
+  - Floyds Warshall
 - **Minimum Spanning Tree**
+  - Disjoint Set  
   - Kruskal's Algorithm
   - Prim's Algorithm
 - **Topological Sorting**
+    - Using Stack
+    - Kahn's algo(BFS)
+- **Cycle Detection**
+  - In undirected Graph
+  - In Directed Graph
+- **Random Question**
+  - Nearest 0 matrix
+  - Rotten Mango
+  - Bipartied Graph
+  - Clone a graph
+  - Account Merge
+
 
 ### 1.3 Dynamic Programming (DP)
 - **Memoization vs. Tabulation**
