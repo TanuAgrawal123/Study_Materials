@@ -31,7 +31,7 @@
 - **Build BST from Preorder**
 - 
 
-### 1.2 Graphs [https://www.notion.so/Graph-4f204e55d28244cd934367baf72c024a#937dc1195f6544b5ad15a5bb0d09bc7b]
+### 1.2 Graphs [Link To Work](https://www.notion.so/Graph-4f204e55d28244cd934367baf72c024a#937dc1195f6544b5ad15a5bb0d09bc7b)
 - **Graph Traversal**
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
