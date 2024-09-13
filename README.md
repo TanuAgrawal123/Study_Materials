@@ -97,13 +97,19 @@
 - **Debouncing**
 - **Throttling**
 - **Iterators and Generators**
-### 2.2 Frontend Extra Topic Part 1 [Linnk to work](https://www.notion.so/Frontend-Additional-Topic-Part-2-cc9b4b4dc9104de49626cb21f2b1011f)
+### 2.2 Frontend Extra Topic Part 1 [Link to work](https://www.notion.so/Frontend-Additional-Topic-Part-2-cc9b4b4dc9104de49626cb21f2b1011f)
 - **Server Side Rendering**
 - **Client Side Rendering**
 - **Lazy loading**
+- **Workers**
 - **Caching**
 - **Techniques to reduce dom manupulation and improve network performance**
-### 2.3 Javascript Coding Practice
+### 2.3 Frontend Extra Topic part 2 [Link to work](https://www.notion.so/Frontend-Additional-Topic-Part1-b588ae1884d74364a0cec3869dec9d83)
+- **A/B Testing**
+- **MVC**
+- **Web Socket**
+- **Observer Pattern**
+### 2.4 Javascript Coding Practice
 - **Map Filter Reduce Implementation** [Link](https://codesandbox.io/p/sandbox/array-map-qddysz)
 - **Prmoises Implmentation**  [Link](https://codesandbox.io/p/sandbox/promise-impl-wwwpwp)
 - **Adding Event Listener in Array using Prototype**  [Link](https://codesandbox.io/p/sandbox/adding-event-listener-in-array-sl2p67)
