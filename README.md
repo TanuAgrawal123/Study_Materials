@@ -97,15 +97,20 @@
 - **Debouncing**
 - **Throttling**
 - **Iterators and Generators**
-
-### 2.2 Javascript Coding Practice
+### 2.2 Frontend Extra Topic Part 1 [Linnk to work](https://www.notion.so/Frontend-Additional-Topic-Part-2-cc9b4b4dc9104de49626cb21f2b1011f)
+- **Server Side Rendering**
+- **Client Side Rendering**
+- **Lazy loading**
+- **Caching**
+- **Techniques to reduce dom manupulation and improve network performance**
+### 2.3 Javascript Coding Practice
 - **Map Filter Reduce Implementation** [Link](https://codesandbox.io/p/sandbox/array-map-qddysz)
 - **Prmoises Implmentation**  [Link](https://codesandbox.io/p/sandbox/promise-impl-wwwpwp)
 - **Adding Event Listener in Array using Prototype**  [Link](https://codesandbox.io/p/sandbox/adding-event-listener-in-array-sl2p67)
 - **Implementing Event Dispatcher**  [Link](https://codesandbox.io/p/sandbox/implement-eventdispatcher-class-mqgxkw)
 - **Tab Problem**  [Link](https://codesandbox.io/p/sandbox/tab-problem-1-yh9dg6)
 
-### 2.3 Maching coding Round Problems on React JS
+### 2.4 Maching coding Round Problems on React JS
 - **Snake Eating Problem** [Link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/SnakeEat)
 - **Snake Ladder Problem** [Link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/SnakeAndLadder)
 - **Tic Tac Toe** [link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/TicTacToe)
