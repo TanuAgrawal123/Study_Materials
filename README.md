@@ -54,15 +54,23 @@
   - Rotten Mango
   - Bipartied Graph
   - Clone a graph
-  - Account Merge
+  - Account MergeSubset sum problem
 
 
-### 1.3 Dynamic Programming (DP)
-- **Memoization vs. Tabulation**
-- **Common Problems**
-  - Knapsack Problem
-  - Longest Common Subsequence
-  - Matrix Chain Multiplication
+### 1.3 Dynamic Programming (DP) [Link to work](https://dorian-helicopter-7f2.notion.site/DP-c9d3f3a275284ee6a7c3a429a03aaf82)
+- **Minimize cost for climbing stairs(K jumps)**
+- **House Robber**
+- **Unique Path to reach robot to end of matrix**
+- **Subset sum problem**
+- **Perfect sum problem**
+- **max product sub array**
+- **longest increasing subsequence**
+- **0/1 kanpsack**
+- **coin change**
+- **edit distance**
+- **Job scheduler**
+- **longest increasing subsequence**
+- **longest increasing sequence**
 
 ### 1.4 Linked Lists
 - **Singly Linked List**
