@@ -7,7 +7,18 @@
 <a name="Data-Structures-and-Algorithms"></a>
 ## 1. Data Structures and Algorithms (DSA)
 
-### 1.1 Trees [Link to Work](https://dorian-helicopter-7f2.notion.site/Tree-65d8225f25804a8987aafd9533eed37f)
+### 1.1 Array [Link to Work](https://dorian-helicopter-7f2.notion.site/Array-99f66dcc165f4ad0aff3feae12e82fbf?pvs=74)
+- **pascal Trianlge**
+- **Set matrix zero**
+- **next permutation**
+- **Kadane Algorithm**
+- **stock buy and sell**
+- **Sort (0,1,2)**
+- **Finding missing and duplicate number**
+- **Count Inversion**
+- **Search in 2D Matrix**
+  
+### 1.2 Trees [Link to Work](https://dorian-helicopter-7f2.notion.site/Tree-65d8225f25804a8987aafd9533eed37f)
 - **Inorder Morris Traversal**
 - **PreOrder Morris Traversal**
 - **Left View of Binary tree**
@@ -34,9 +45,9 @@
 - **Convert BT to LL with specific condition**
 - **Build BST From Array**
 - **Build BST from Preorder**
-- 
 
-### 1.2 Graphs [Link To Work](https://www.notion.so/Graph-4f204e55d28244cd934367baf72c024a#937dc1195f6544b5ad15a5bb0d09bc7b)
+
+### 1.3 Graphs [Link To Work](https://www.notion.so/Graph-4f204e55d28244cd934367baf72c024a#937dc1195f6544b5ad15a5bb0d09bc7b)
 - **Graph Traversal**
   - Breadth-First Search (BFS)
   - Depth-First Search (DFS)
@@ -62,7 +73,7 @@
   - Account MergeSubset sum problem
 
 
-### 1.3 Dynamic Programming (DP) [Link to work](https://dorian-helicopter-7f2.notion.site/DP-c9d3f3a275284ee6a7c3a429a03aaf82)
+### 1.4 Dynamic Programming (DP) [Link to work](https://dorian-helicopter-7f2.notion.site/DP-c9d3f3a275284ee6a7c3a429a03aaf82)
 - **Minimize cost for climbing stairs(K jumps)**
 - **House Robber**
 - **Unique Path to reach robot to end of matrix**
@@ -77,7 +88,7 @@
 - **longest increasing subsequence**
 - **longest increasing sequence**
 
-### 1.4 Linked Lists [Link to work](https://dorian-helicopter-7f2.notion.site/Linked-List-56d46e576ce74399b3e98061dc171561?pvs=74)
+### 1.5 Linked Lists [Link to work](https://dorian-helicopter-7f2.notion.site/Linked-List-56d46e576ce74399b3e98061dc171561?pvs=74)
 - **Reverse Doubly Linked List**
 - **Reverse Linked list**
 - **Middle Linked list**
