@@ -2,6 +2,8 @@
 [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 
 [Javascript](#Javascript)
+
+[Java](#Java)
 <a name="Data-Structures-and-Algorithms"></a>
 ## 1. Data Structures and Algorithms (DSA)
 
@@ -75,8 +77,21 @@
 - **longest increasing subsequence**
 - **longest increasing sequence**
 
-### 1.4 Linked Lists
-- **Singly Linked List**
+### 1.4 Linked Lists [Link to work](https://dorian-helicopter-7f2.notion.site/Linked-List-56d46e576ce74399b3e98061dc171561?pvs=74)
+- **Reverse Doubly Linked List**
+- **Reverse Linked list**
+- **Middle Linked list**
+- **Detect a cycle in Linked List**
+- **Detect a starting point in cycle**
+- **Palindrome in Linked List**
+- **Add 1 to linked list**
+- **Find all pair with given target in sorted doubly linked list**
+- **Get intersection point of two LL**
+- **Flatten of linked list**
+- **Rotate a linked list by k**
+- **Flatten a linked List**
+- **Sort Linked List**
+- **Reverse linked list by k group**
 
 ## 2.FRONTEND
 
@@ -132,6 +147,7 @@
 - **Snake Ladder Problem** [Link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/SnakeAndLadder)
 - **Tic Tac Toe** [link](https://github.com/TanuAgrawal123/Game_Platform_Frontend_practice/tree/main/src/TicTacToe)
 
+<a name="Java"></a>
 ## 3 JAVA
 ### 3.1 MultiThreading in Java [Link](https://dorian-helicopter-7f2.notion.site/Multithreading-in-Java-999b6f6957c249d6be3000fbacfe7207?pvs=74)
 - **JVM JDK JRE**
