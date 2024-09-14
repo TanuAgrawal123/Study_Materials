@@ -1,5 +1,8 @@
 # Interview Preparation Guide
+[Data Structures and Algorithms](#Data-Structures-and-Algorithms)
 
+[Javascript](#Javascript)
+<a name="Data-Structures-and-Algorithms"></a>
 ## 1. Data Structures and Algorithms (DSA)
 
 ### 1.1 Trees [Link to Work](https://dorian-helicopter-7f2.notion.site/Tree-65d8225f25804a8987aafd9533eed37f)
@@ -77,7 +80,7 @@
 
 ## 2.FRONTEND
 
-
+<a name="Javascript"></a>
 ### 2.1 Javascript [Link to Work](https://dorian-helicopter-7f2.notion.site/Javascript-f3b73f7d5f1943c8bac148e441fa6091)
 - **Execution Context**
 - **Shortest JS Program**
