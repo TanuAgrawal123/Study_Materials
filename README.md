@@ -87,6 +87,7 @@
 - **Job scheduler**
 - **longest increasing subsequence**
 - **longest increasing sequence**
+- **Find max sqaure are in 2 d matrix**
 
 ### 1.5 Linked Lists [Link to work](https://dorian-helicopter-7f2.notion.site/Linked-List-56d46e576ce74399b3e98061dc171561?pvs=74)
 - **Reverse Doubly Linked List**
