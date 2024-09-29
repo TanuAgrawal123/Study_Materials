@@ -4,6 +4,8 @@
 [Javascript](#Javascript)
 
 [Java](#Java)
+
+[C++](#C++)
 <a name="Data-Structures-and-Algorithms"></a>
 ## 1. Data Structures and Algorithms (DSA)
 
@@ -167,4 +169,17 @@
 - **MultiThreading and Synchronization**
 - **Producer and Consumer Problem**
 - **Deadlock**
-
+<a name = "C++"></a>
+## 4 C++
+### 4.1 Mutithreading in c++ [link](https://dorian-helicopter-7f2.notion.site/Thread-in-C-10f5fc3ead10803da2d9e0094fa292c3?pvs=74)
+- **Thread**
+- **join,detach**
+- **mutex**
+- **lock, unlock**
+- **timed_mutex**
+- **recursive_mutex**
+- **condition variable- wait, notify**
+- **sleep**
+- **producer consumer**
+- **thread pool**
+- **type of ways to create thread**
