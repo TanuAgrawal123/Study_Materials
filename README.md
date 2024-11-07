@@ -169,6 +169,21 @@
 - **MultiThreading and Synchronization**
 - **Producer and Consumer Problem**
 - **Deadlock**
+### 3.2 More About Java [Link](https://dorian-helicopter-7f2.notion.site/Java-Fundamental-1025fc3ead1080989a30c17f79498503)
+- **basic of testing**
+- **Annotation introduction**
+- **String interning**
+- **Volatile**
+- **Transient**
+- **Abstract and Interface**
+- **Final Keyword**
+- **Access Modifier**
+- **Streams**
+- **Wrappers**
+- **Generics**
+- **Lambda Expression**
+- **Functional Interface**
+  
 <a name = "C++"></a>
 ## 4 C++
 ### 4.1 Mutithreading in c++ [link](https://dorian-helicopter-7f2.notion.site/Thread-in-C-10f5fc3ead10803da2d9e0094fa292c3?pvs=74)
