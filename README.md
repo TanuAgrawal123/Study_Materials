@@ -6,6 +6,9 @@
 [Java](#Java)
 
 [C++](#C++)
+
+[System Design HLD Topic](#HLD)
+
 <a name="Data-Structures-and-Algorithms"></a>
 ## 1. Data Structures and Algorithms (DSA)
 
@@ -198,3 +201,10 @@
 - **producer consumer**
 - **thread pool**
 - **type of ways to create thread**
+
+
+<a name = "HLD"></a>
+## System Design HLD topic
+- **Cap Theorem** [Link](https://dorian-helicopter-7f2.notion.site/CAP-Theorem-c5eb7e0f0d1b40eba614e7acada2926b?pvs=4)
+
+
