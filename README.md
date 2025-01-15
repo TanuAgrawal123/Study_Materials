@@ -9,6 +9,8 @@
 
 [System Design HLD Topic](#HLD)
 
+[SQL](#SQL)
+
 <a name="Data-Structures-and-Algorithms"></a>
 ## 1. Data Structures and Algorithms (DSA)
 
@@ -22,6 +24,7 @@
 - **Finding missing and duplicate number**
 - **Count Inversion**
 - **Search in 2D Matrix**
+- **Good Random Question** [Link](https://leetcode.com/problem-list/2xk08p6i/)
   
 ### 1.2 Trees [Link to Work](https://dorian-helicopter-7f2.notion.site/Tree-65d8225f25804a8987aafd9533eed37f)
 - **Inorder Morris Traversal**
@@ -207,4 +210,6 @@
 ## System Design HLD topic
 - **Cap Theorem** [Link](https://dorian-helicopter-7f2.notion.site/CAP-Theorem-c5eb7e0f0d1b40eba614e7acada2926b?pvs=4)
 
-
+<a name = "SQL"></a>
+## SQL 
+- **Random Question to practice** [Link](https://leetcode.com/problem-list/25a8b6ym/)
